@@ -15,8 +15,8 @@ changing fourcc and format for various type of recordings
 2. You need to choose file format and file fourcc in advance and type with delimiter ' '.
 * In this case, you need to change 0 from **video = cv.VideoCapture(0)** to 1, or something else.
 3. Then your web camera will start recording.
+  
   ![Image](https://github.com/user-attachments/assets/23c5b276-6f88-4175-a714-558a6413722c)
-
 
 4. If you want to stop recording for a while, just press spacebar.
   ![Image](https://github.com/user-attachments/assets/6cbc10d8-e901-4e70-9f1a-4d61fd1b57c8)
