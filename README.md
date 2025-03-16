@@ -19,5 +19,8 @@ changing fourcc and format for various type of recordings
 
 4. If you want to stop recording for a while, just press spacebar.
   ![Image](https://github.com/user-attachments/assets/6cbc10d8-e901-4e70-9f1a-4d61fd1b57c8)
-  Do the same to resume recording.
-5. if you want to finish recording, just press esc key. Then your recording will be saved as Recordings.***(your choice for format).
+
+Do the same to resume recording.
+6. if you want to finish recording, just press esc key. Then your recording will be saved as Recordings.***(your choice for format).
+
+##
