@@ -22,7 +22,7 @@ changing fourcc and format for various type of recordings
 
 ![Image](https://github.com/user-attachments/assets/6cbc10d8-e901-4e70-9f1a-4d61fd1b57c8)
 
-Do the same to resume recording.
+5. Do the same to resume recording.
 6. if you want to finish recording, just press esc key. Then your recording will be saved as Recordings.***(your choice for format).
 
 ##
